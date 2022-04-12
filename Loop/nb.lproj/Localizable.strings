@@ -176,7 +176,7 @@
 "Custom Override" = "Tilpassede overstyringer";
 
 /* The title of the Loggly customer token credential */
-"Customer Token" = "Customer Token";
+"Customer Token" = "Kundetoken";
 
 /* Button title to delete CGM */
 "Delete CGM" = "Slett CGM";
